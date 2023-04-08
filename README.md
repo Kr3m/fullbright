@@ -1,6 +1,6 @@
 # CPMA-style Fullbright Skins For Quake Live.
 
-https://raw.githubusercontent.com/Kr3m/fullbright/master/preview.jpg
+![preview](https://user-images.githubusercontent.com/290740/230701180-4b1e15af-4910-41a8-9ddc-a2034fbc8bfe.jpg)
 
 ## TODO:
 
