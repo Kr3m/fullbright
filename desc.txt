@@ -1,0 +1,25 @@
+Fullbright Skins from CPMA
+
+Example of bright green keel:
+
+seta cg_forceEnemySkin "fb"
+seta cg_forceEnemyModel "keel"
+seta cg_enemyUpperColor "0x33ff00ff"
+seta cg_enemyLowerColor "0x33ff00ff"
+seta cg_enemyHeadColor "0x33ff00ff"
+
+seta r_vertexLight "0"
+
+You can type either exec pm.cfg (for promode), exec pmv.cfg (promode with vertex lighting see note at bottom), or exec fb.cfg (for fullbright).
+
+Currently works on KR3M.ONE servers.
+
+Not sure if they'll work on any others until more people adopt them.
+
+Vertex lighting will be disabled so if you use this and want to revert back to pm skins with vertex lighting, /exec pmv.cfg
+
+You'll have to issue a /vid_restart any time you change your vertex light settings.
+
+Server admins and players. If you'd prefer to just put the pk3 file in your baseq3 directory and not deal with the workshop, you can download the most recent version here:
+
+https://dayentech.net/games/quake/QuakeLive/files/fullbright.pk3
