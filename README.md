@@ -1,4 +1,4 @@
-# CPMA-style Fullbright skins for Quake Live.
+# CPMA-style Fullbright Skins For Quake Live.
 
 ## TODO:
 
